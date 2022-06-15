@@ -18,3 +18,9 @@ $ docker-compose up -d
 - home画面にログインし、起動成功<br>
 
 <img src="../images/home.png" width="500" height="300">
+以上で環境構築は完了です。
+
+#### 補足
+- azkabanのimageファイルはいろいろな人が挙げているので、他のパターンも試してみるといいと思います。
+- もちろんDockerを使わずに構築する方法もあります。
+- [Azkaban を使ってジョブの管理・実行をしてみた ~インストール編~](https://tech-lab.sios.jp/archives/13312)
